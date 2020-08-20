@@ -40,12 +40,42 @@ acesse o endereço: ```http://localhost:3333```
 <table>
 	<tr>
 		<th width="100%">
-			Web Interface<br>
+			Logon<br>
 		</th>
 	</tr>
 	<tr>
 		<td>
 			<img width="1080" src="https://raw.githubusercontent.com/leoccomp/be-the-hero/master/Screen1.jpeg">
+		</td>
+	</tr>
+    <tr>
+		<th width="100%">
+			Cadastro de ONG's<br>
+		</th>
+	</tr>
+	<tr>
+		<td>
+			<img width="1080" src="https://raw.githubusercontent.com/leoccomp/be-the-hero/master/Screen5.jpeg">
+		</td>
+	</tr>
+    <tr>
+		<th width="100%">
+			Dashboard ONG<br>
+		</th>
+	</tr>
+	<tr>
+		<td>
+			<img width="1080" src="https://raw.githubusercontent.com/leoccomp/be-the-hero/master/Screen3.jpeg">
+		</td>
+	</tr>
+    <tr>
+		<th width="100%">
+			Cadastro de Casos<br>
+		</th>
+	</tr>
+	<tr>
+		<td>
+			<img width="1080" src="https://raw.githubusercontent.com/leoccomp/be-the-hero/master/Screen4.jpeg">
 		</td>
 	</tr>
 </table>
